@@ -1,5 +1,5 @@
 
-## Installation
+# Installation
 
 ### Prerequisites
 
@@ -31,4 +31,4 @@ $ terraform apply
 
 4. Try navigating to the following consoles from your favorite browser.
 
-*https://apim.wso2test.com*
+**https://apim.wso2test.com**
