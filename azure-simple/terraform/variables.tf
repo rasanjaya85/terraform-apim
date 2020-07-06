@@ -72,3 +72,4 @@ variable "db_admin_password" {
   default = "H@Sh1CoR3!"
 }
 
+

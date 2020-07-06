@@ -6,15 +6,19 @@ Azure subscription details are included in "variables.json".
 Packer Directories and Files
 ----------------
 
-- ansible-apim/
+`ansible-apim/` - 
     included relevant terraform scripts of database server and databases creation for APIM product.
-- scripts/
+
+`scripts/` - 
     included relevant API Manager runtime configurations and clean up scripts
-- dbscripts/
+    
+`dbscripts/` - 
     included relevant API Manager database schemas and tables files
-- centos-base.json
+    
+`centos-base.json` - 
     contained relavant packer configurations for build the Azure machine image
-- Vagrantfile
+    
+`Vagrantfile` - 
     contained relavant vagrant configurations for test the Ansible playbook changes in locally
 
 
